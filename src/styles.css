@@ -31,7 +31,10 @@ img{
   display: block;
   margin: 0 auto;
   width: 100%;
-
+  border-radius: 5px;
+}
+.aboutCroissant{
+  width: 50%;
 }
 
 #toPhotos{
@@ -42,6 +45,7 @@ img{
   background-color: rgb(242, 179, 180);
   padding: 15px 30px;
   margin: 20px 20%;
+  border-radius: 5px;
   box-shadow: var(--shadow);
 }
 
